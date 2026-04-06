@@ -132,19 +132,6 @@ Body (JSON):
 }
 ```
 
-### Get records for logged-in user
-**GET** `/api/records`
 
-Headers:
-- `Authorization: Bearer <YOUR_JWT>`
 
-### Dashboard summary
-**GET** `/api/dashboard/summary`
 
-Headers:
-- `Authorization: Bearer <YOUR_JWT>`
-
-## Author
-**Your Name**  
-- GitHub: `<your-github>`  
-- LinkedIn: `<your-linkedin>`
